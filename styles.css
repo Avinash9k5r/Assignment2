@@ -1,0 +1,24 @@
+body, html {
+  background: url(bgimage.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h2 {
+  color:red;
+}
+
+.elements {
+  padding-left: 100px;
+  padding-top: 100px;
+}
+
+.btn:hover {
+  height: 50px;
+  width: 100px;
+  background-color: red;
+  border-width: 3px;
+  border-color: green;
+
+}
